@@ -1,3 +1,5 @@
+# Nathan Pedder 498Lab
+
 import random
 
 def ask_question(question, answer):
